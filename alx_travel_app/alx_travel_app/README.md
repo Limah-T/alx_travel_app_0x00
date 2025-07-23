@@ -1,4 +1,5 @@
 # DataBase Seeding
+
 '''CREATE TABLE IF NOT EXISTS 'user'(
     'user_id' UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     'first_name' VARCHAR(255) NOT NULL,
